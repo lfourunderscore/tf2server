@@ -1,0 +1,8 @@
+hostname "FAMILY BUSINESS"
+rcon_password "Le Piano"
+sv_contact "noting"
+mp_timelimit "60" 
+sv_allowdownload
+sv_downloadurl https://github.com/lfourunderscore/maps
+net_maxfilesize 64
+sm_cvar sv_airaccelerate 1500
